@@ -82,12 +82,6 @@ zillow-data-analytics/
 
 ---
 
-## 📊 Sample Dashboard
-
-> *(Optional: Add screenshots in the `screenshots/` folder and reference them here)*
-
----
-
 ## 🔐 Security
 
 - Sensitive credentials like API keys and IAM roles are securely stored and not shared in this repository.
